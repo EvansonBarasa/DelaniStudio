@@ -11,8 +11,10 @@
 }
 .form-shadow{
   background-image: url("../images/backgrounds/c_image.jpg");
+  background-position: center center;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  color: white;
 }
 .img{
   padding-top: 150px;
