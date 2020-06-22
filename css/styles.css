@@ -1,20 +1,19 @@
-.paragraph {
-  color: #F8F9F9;
-  float: left;
+.center {
+  text-align: center;
+}
+.row-height{
+  height: 50%;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: 100px 500px;
 }
 
-.parag {
-  color: #050505;
-  float: left;
-}
-
-body {
-  background-image: url("../images/programming.jpeg");
+.header-shadow{
+  background-image: url("../images/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
-  height: 100%;
   background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
 }
 
 .background{
