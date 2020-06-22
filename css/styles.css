@@ -1,3 +1,13 @@
+.form-bg{
+  zoom:1;
+  filter-alpha(opacity=50);
+  opacity: 0.3;
+}
+.form-shadow{
+  background-image: url("../images/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
 .img{
   padding-top: 150px;
 }
@@ -40,7 +50,6 @@
 .line-height{
   line-height: 1.6;
 }
-
 .header-shadow{
   background-image: url("../images/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
